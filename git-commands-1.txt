@@ -37,3 +37,7 @@ Scenario 3:
 Work on different branches
 
 Private Branch 1
+
+-----------------------More lines added------------------------------
+We have added extra lines of code
+We need to merge these lines to the master code file
