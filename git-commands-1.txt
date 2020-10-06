@@ -36,4 +36,7 @@ Scenario 3:
 1 person -> Two different features
 Work on different branches
 
-Master Branch 1 
+-----------------------New Code Line--------------------------------
+Master Branch 1 -> newly added code 
+
+We have new lines of code
