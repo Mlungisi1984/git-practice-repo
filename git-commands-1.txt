@@ -37,6 +37,6 @@ Scenario 3:
 Work on different branches
 
 -----------------------New Code Line--------------------------------
-Master Branch 1 -> newly added code 
-
+Master Branch 1 -> newly added code
 We have new lines of code
+
