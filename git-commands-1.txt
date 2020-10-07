@@ -41,3 +41,9 @@ Private Branch 1
 -----------------------More lines added------------------------------
 Private Branch 1 -> We have added extra lines of code
 We need to merge these lines to the master code file
+
+Private Branch 2
+
+-----------------------More lines added------------------------------
+Private Branch 2 -> We have added extra lines of code
+We need to merge these lines to the master code file
